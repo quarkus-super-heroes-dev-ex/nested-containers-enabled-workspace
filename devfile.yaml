@@ -384,7 +384,5 @@ commands:
 events:
   preStart:
     - cp-oc-cli
-  postStart:
-    - start-podman
 
 
